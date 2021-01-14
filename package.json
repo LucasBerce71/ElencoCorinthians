@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  },
+  "scripts": {
+    "start-server": "node index.js",
+    "start-web": "npx lite-server"
+  }
+}
